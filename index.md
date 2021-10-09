@@ -1,5 +1,5 @@
 ---
-title: "PYthon - Desde Cero"
+title: "PYTHON - DESDE CERO"
 ---
 
 DIAS:  Lunes, Miércoles y Viernes, durante 3 semanas (9 Clases)
